@@ -21,6 +21,11 @@
     background-color: rgba(255, 255, 255, 0.1);
 }
 
+.material-symbols-outlined:active {
+    transition: 0ms;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
 .error{
     display: none;
     position: absolute;
